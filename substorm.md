@@ -1,6 +1,6 @@
 # 增强型 Earthfarseer 模型框架
 
-```mermaid
+```mermaid'''
 graph TD
     subgraph Input & Feature Generation
         A[原始 ASI 图像 I(t)] --> P1{P1. 几何校正 & AMGeO 投影}
